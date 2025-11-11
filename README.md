@@ -1,1 +1,8 @@
-# mergulho_das_formas_project
+# Jogo Mergulo das Formas
+Jogo educativo ilustrativo de formas geométricas.
+<br> 
+<div align="left">
+<h3>Bibliotecas necessárias</h3>
+Antes de jogar é preciso instalar o python e a biblioteca pygame.
+<h3>Funcionalidades</h3>
+Neste jogo o jogador insere o seu nome ou apelido para jogar. Em seguida o jogo é iniciado, o jogador é um peixe que tem como objetivo pegar as formas indicadas no menor tempo possível.
